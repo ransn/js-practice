@@ -1,5 +1,8 @@
 // Import stylesheets
 import "./style.css";
+import "./arrowFunctions.js";
+import "./object_literals.js";
+import "./destructuring.js";
 
 // Write Javascript code!
 const appDiv = document.getElementById("app");
