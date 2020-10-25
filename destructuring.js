@@ -1,3 +1,7 @@
+/**
+ * Destructuring works for both arrays and objects
+ */
+
 //const PI = Math.PI;
 //const E = Math.E;
 //const SQRT2 = Math.SQRT2;
@@ -20,7 +24,7 @@ const circleArea = ({ radius }, { precision = 2 } = {}) =>
 
 console.log(circleArea(circle, { precision: 5 }));
 
-const [first, second, , forth] = [10, 20, 30, 40];
+const [first, second, , forth] = [10, 20, 30, 50, 40];
 
 console.log(forth);
 

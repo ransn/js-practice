@@ -3,6 +3,9 @@ import "./style.css";
 import "./arrowFunctions.js";
 import "./object_literals.js";
 import "./destructuring.js";
+import "./template_strings.js";
+import "./classes.js";
+import "./promises_async_await.js";
 
 // Write Javascript code!
 const appDiv = document.getElementById("app");
