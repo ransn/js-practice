@@ -13,3 +13,5 @@ const fetchData = async () => {
   const data = await resp.json();
   console.log(data);
 };
+
+fetchData();

@@ -14,9 +14,9 @@ const obj = {
   f2: () => {},
   // Below one is a dynamic property
   [dynamicProperty]: 42,
-  inverseOfPI: inverseOfPI,
+  inverseOfPI: inverseOfPI
   //OR
-  inverseOfPI
+  //inverseOfPI
 };
 
 // undefined
